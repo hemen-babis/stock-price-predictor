@@ -53,12 +53,6 @@ The model fetches historical stock data, trains an LSTM model, and predicts the 
 - 🤖 **Improve Model Accuracy** with hyperparameter tuning
 - 🔍 **Include More Features** (volume, moving averages, sentiment analysis)
 
-## 💡 Contributing
-Feel free to submit issues and pull requests!
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
 ## 📬 Contact
 🔗 **GitHub**: [Hemen Babis](https://github.com/hemen-babis)
 📧 **Email**: hemenbabis@gmail.com
