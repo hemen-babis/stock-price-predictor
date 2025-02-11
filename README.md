@@ -46,7 +46,8 @@ This project is a **Stock Price Prediction Model** that utilizes **machine learn
 ## 📊 Example Output
 The model fetches historical stock data, trains an LSTM model, and predicts the next day's closing price. It also plots stock trends.
 
-![Stock Price Prediction](https://via.placeholder.com/600x300.png)
+![Stock Price Prediction](https://github.com/user-attachments/assets/698c44e8-21d5-4f20-b839-89e14f38748f)
+
 
 ## 🔗 Future Enhancements
 - 📡 **Deploy as a Web App** (Flask or Streamlit)
